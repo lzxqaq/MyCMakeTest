@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/root/c++/cmaketest/2/src/hello.cpp
+iostream
+-
+hello.h
+/root/c++/cmaketest/2/src/hello.h
+
+/root/c++/cmaketest/2/src/main.cpp
+hello.h
+/root/c++/cmaketest/2/src/hello.h
+

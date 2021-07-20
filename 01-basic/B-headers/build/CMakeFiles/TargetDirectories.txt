@@ -1,0 +1,3 @@
+/root/c++/cmaketest/2/build/CMakeFiles/rebuild_cache.dir
+/root/c++/cmaketest/2/build/CMakeFiles/hello_headers.dir
+/root/c++/cmaketest/2/build/CMakeFiles/edit_cache.dir

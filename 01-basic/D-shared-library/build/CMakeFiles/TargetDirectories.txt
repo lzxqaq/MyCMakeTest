@@ -1,0 +1,4 @@
+/root/c++/cmaketest/4/build/CMakeFiles/rebuild_cache.dir
+/root/c++/cmaketest/4/build/CMakeFiles/edit_cache.dir
+/root/c++/cmaketest/4/build/CMakeFiles/hello_library.dir
+/root/c++/cmaketest/4/build/CMakeFiles/hello_binary.dir
